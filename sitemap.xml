@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://alloneword.net/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://emdiscussions.github.io/blog/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://alloneword.net/</loc>
+<loc>https://emdiscussions.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://alloneword.net/atomic-mail-my-thoughts.html</loc>
+<loc>https://emdiscussions.github.io/blog/atomic-mail-my-thoughts.html</loc>
 <lastmod>2026-02-21T19:41:00+00:00</lastmod>
 </url>
 <url>
-<loc>https://alloneword.net/i-asked-chatgpt-to-create-a-google-mail-script.html</loc>
+<loc>https://emdiscussions.github.io/blog/i-asked-chatgpt-to-create-a-google-mail-script.html</loc>
 <lastmod>2026-03-03T18:51:11+00:00</lastmod>
 <image:image>
-<image:loc>https://alloneword.net/media/posts/2//google-mail-script.png</image:loc>
+<image:loc>https://emdiscussions.github.io/blog/media/posts/2//google-mail-script.png</image:loc>
 <image:title><![CDATA[Screencap of the generated Google Apps Script.]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://alloneword.net/mxroute-alias-manager.html</loc>
+<loc>https://emdiscussions.github.io/blog/mxroute-alias-manager.html</loc>
 <lastmod>2026-03-04T08:38:28+00:00</lastmod>
 </url>
 <url>
-<loc>https://alloneword.net/page/2/</loc>
+<loc>https://emdiscussions.github.io/blog/page/2/</loc>
 </url>
 <url>
-<loc>https://alloneword.net/port87-label-powered-email.html</loc>
+<loc>https://emdiscussions.github.io/blog/port87-label-powered-email.html</loc>
 <lastmod>2026-02-22T10:22:25+00:00</lastmod>
 </url>
 <url>
-<loc>https://alloneword.net/setting-up-the-emdiscussions-blog.html</loc>
+<loc>https://emdiscussions.github.io/blog/setting-up-the-emdiscussions-blog.html</loc>
 <lastmod>2026-03-05T09:47:17+00:00</lastmod>
 </url>
 <url>
-<loc>https://alloneword.net/understanding-dmarc-reports.html</loc>
+<loc>https://emdiscussions.github.io/blog/understanding-dmarc-reports.html</loc>
 <lastmod>2026-02-21T19:41:30+00:00</lastmod>
 </url>
 <url>
-<loc>https://alloneword.net/zoho-mail-a-cautionary-tale-with-a-happy-ending.html</loc>
+<loc>https://emdiscussions.github.io/blog/zoho-mail-a-cautionary-tale-with-a-happy-ending.html</loc>
 <lastmod>2026-02-21T19:41:11+00:00</lastmod>
 </url>
 <url>
-<loc>https://alloneword.net/zoho-mail-forever-free-plan.html</loc>
+<loc>https://emdiscussions.github.io/blog/zoho-mail-forever-free-plan.html</loc>
 <lastmod>2026-03-03T18:52:51+00:00</lastmod>
 </url>
 </urlset>
