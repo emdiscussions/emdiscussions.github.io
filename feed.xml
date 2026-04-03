@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>EMDiscussions Blog</title>
-    <link href="https://emdiscussions.github.io/blog/feed.xml" rel="self" />
-    <link href="https://emdiscussions.github.io/blog" />
+    <link href="https://emdiscussions.github.io/feed.xml" rel="self" />
+    <link href="https://emdiscussions.github.io" />
     <updated>2026-03-05T09:47:17+00:00</updated>
     <author>
         <name>EMD</name>
     </author>
-    <id>https://emdiscussions.github.io/blog</id>
+    <id>https://emdiscussions.github.io</id>
 
     <entry>
         <title>Zoho Mail Forever Free Plan</title>
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/zoho-mail-forever-free-plan.html"/>
-        <id>https://emdiscussions.github.io/blog/zoho-mail-forever-free-plan.html</id>
+        <link href="https://emdiscussions.github.io/zoho-mail-forever-free-plan.html"/>
+        <id>https://emdiscussions.github.io/zoho-mail-forever-free-plan.html</id>
 
         <updated>2026-02-14T14:31:44+00:00</updated>
             <summary></summary>
@@ -39,8 +39,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/mxroute-alias-manager.html"/>
-        <id>https://emdiscussions.github.io/blog/mxroute-alias-manager.html</id>
+        <link href="https://emdiscussions.github.io/mxroute-alias-manager.html"/>
+        <id>https://emdiscussions.github.io/mxroute-alias-manager.html</id>
 
         <updated>2026-02-10T18:59:03+00:00</updated>
             <summary></summary>
@@ -63,8 +63,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/atomic-mail-my-thoughts.html"/>
-        <id>https://emdiscussions.github.io/blog/atomic-mail-my-thoughts.html</id>
+        <link href="https://emdiscussions.github.io/atomic-mail-my-thoughts.html"/>
+        <id>https://emdiscussions.github.io/atomic-mail-my-thoughts.html</id>
 
         <updated>2026-01-28T15:18:25+00:00</updated>
             <summary></summary>
@@ -91,8 +91,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/zoho-mail-a-cautionary-tale-with-a-happy-ending.html"/>
-        <id>https://emdiscussions.github.io/blog/zoho-mail-a-cautionary-tale-with-a-happy-ending.html</id>
+        <link href="https://emdiscussions.github.io/zoho-mail-a-cautionary-tale-with-a-happy-ending.html"/>
+        <id>https://emdiscussions.github.io/zoho-mail-a-cautionary-tale-with-a-happy-ending.html</id>
 
         <updated>2026-01-28T10:47:08+00:00</updated>
             <summary></summary>
@@ -113,8 +113,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/port87-label-powered-email.html"/>
-        <id>https://emdiscussions.github.io/blog/port87-label-powered-email.html</id>
+        <link href="https://emdiscussions.github.io/port87-label-powered-email.html"/>
+        <id>https://emdiscussions.github.io/port87-label-powered-email.html</id>
 
         <updated>2026-01-28T10:33:29+00:00</updated>
             <summary></summary>
@@ -163,8 +163,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/understanding-dmarc-reports.html"/>
-        <id>https://emdiscussions.github.io/blog/understanding-dmarc-reports.html</id>
+        <link href="https://emdiscussions.github.io/understanding-dmarc-reports.html"/>
+        <id>https://emdiscussions.github.io/understanding-dmarc-reports.html</id>
 
         <updated>2026-01-28T10:12:17+00:00</updated>
             <summary></summary>
@@ -215,8 +215,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/i-asked-chatgpt-to-create-a-google-mail-script.html"/>
-        <id>https://emdiscussions.github.io/blog/i-asked-chatgpt-to-create-a-google-mail-script.html</id>
+        <link href="https://emdiscussions.github.io/i-asked-chatgpt-to-create-a-google-mail-script.html"/>
+        <id>https://emdiscussions.github.io/i-asked-chatgpt-to-create-a-google-mail-script.html</id>
 
         <updated>2026-01-28T09:09:12+00:00</updated>
             <summary></summary>
@@ -227,7 +227,7 @@
 <p><span style="color: #2dc26b;"><em>Create a Google Gmail script to automatically delete emails older than 7 days that have the label '7-Days'.</em></span></p>
 </blockquote>
 <p>Within a few seconds, I got this response:</p>
-<figure class="post__image"><img loading="lazy"  src="https://emdiscussions.github.io/blog/media/posts/2//google-mail-script.png" alt="Screencap of the generated Google Apps Script." width="880" height="943" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emdiscussions.github.io/blog/media/posts/2//responsive/google-mail-script-xs.png 640w ,https://emdiscussions.github.io/blog/media/posts/2//responsive/google-mail-script-sm.png 768w ,https://emdiscussions.github.io/blog/media/posts/2//responsive/google-mail-script-md.png 1024w ,https://emdiscussions.github.io/blog/media/posts/2//responsive/google-mail-script-lg.png 1366w ,https://emdiscussions.github.io/blog/media/posts/2//responsive/google-mail-script-xl.png 1600w ,https://emdiscussions.github.io/blog/media/posts/2//responsive/google-mail-script-2xl.png 1920w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://emdiscussions.github.io/media/posts/2//google-mail-script.png" alt="Screencap of the generated Google Apps Script." width="880" height="943" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://emdiscussions.github.io/media/posts/2//responsive/google-mail-script-xs.png 640w ,https://emdiscussions.github.io/media/posts/2//responsive/google-mail-script-sm.png 768w ,https://emdiscussions.github.io/media/posts/2//responsive/google-mail-script-md.png 1024w ,https://emdiscussions.github.io/media/posts/2//responsive/google-mail-script-lg.png 1366w ,https://emdiscussions.github.io/media/posts/2//responsive/google-mail-script-xl.png 1600w ,https://emdiscussions.github.io/media/posts/2//responsive/google-mail-script-2xl.png 1920w"></figure>
 <p>Could it be that simple, I asked myself?<br><br>There's only one way to find out, so I copied the code and went to <a href="https://script.google.com" target="_blank" rel="noopener noreferrer">https://script.google.com</a> for my Gmail account and created a new project, and pasted the code.<br><br>Saved and Run, I had to authorise the use of the script.<br><br>Following the ChatGPT instructions on how to set up, I created the trigger to run once an hour, and saved that.<br><br>I was sceptical about whether it would work, but - and admittedly it's early days yet - the script does appear to work!</p>
             ]]>
         </content>
@@ -237,8 +237,8 @@
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/blog/setting-up-the-emdiscussions-blog.html"/>
-        <id>https://emdiscussions.github.io/blog/setting-up-the-emdiscussions-blog.html</id>
+        <link href="https://emdiscussions.github.io/setting-up-the-emdiscussions-blog.html"/>
+        <id>https://emdiscussions.github.io/setting-up-the-emdiscussions-blog.html</id>
 
         <updated>2026-01-27T18:33:25+00:00</updated>
             <summary></summary>
