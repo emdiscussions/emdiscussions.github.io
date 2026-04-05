@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "EMDiscussions Blog",
+    "title": "EMDiscussions - Notes from the Inbox",
     "description": "",
     "home_page_url": "https://emdiscussions.github.io",
     "feed_url": "https://emdiscussions.github.io/feed.json",
@@ -102,9 +102,9 @@
             "date_modified": "2026-03-03T18:51:11+00:00"
         },
         {
-            "id": "https://emdiscussions.github.io/setting-up-the-emdiscussions-blog.html",
-            "url": "https://emdiscussions.github.io/setting-up-the-emdiscussions-blog.html",
-            "title": "Setting up the EMDiscussions Blog",
+            "id": "https://emdiscussions.github.io/youve-got-mail.html",
+            "url": "https://emdiscussions.github.io/youve-got-mail.html",
+            "title": "You&#x27;ve got mail!",
             "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://ik.imagekit.io/rkumag9jl/emd-header-image.png\" alt=\"Digital communication in a techno world!\" width=\"1534\" height=\"606\" data-is-external-image=\"true\"></figure>\n<p>Up to now, I've posted any email-related 'stuff' on my personal blog, but have now decided to post that content on a separate blog.</p>\n<p>So, here it is!</p>\n<p><strong><em>The plumbing!</em></strong></p>\n<p>This is the combination that enables the creation of the blog:</p>\n<p><em>Github Pages</em> - The blog is hosted by <a href=\"https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site\">GitHub Pages</a> - a static site hosting service.</p>\n<p><em>Publii</em> - The blog is created by <a href=\"https://getpublii.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Publii</a>, a free, open-source desktop application, developed by a small team based in Poland.</p>\n<p><em>ImageKit</em> - The blog images are hosted by <a href=\"https://imagekit.io/\" target=\"_blank\" rel=\"noopener noreferrer\">ImageKit</a>, an 'all-in-one media management and delivery platform', They operate a distributed processing network across multiple regions, including Frankfurt.</p>\n<p><em>Hoping to leave a comment? Sorry, there aren’t any here. It’s not that your thoughts don’t matter – I just value my sanity more than moderating a comment section. If you wish to comment on any of my posts, you may comment via my <a href=\"https://mastodon.social/@EMDiscussions\" target=\"_blank\" rel=\"noopener noreferrer\">Mastodon</a> account.</em></p>",
             "author": {
                 "name": "EMD"
@@ -112,7 +112,7 @@
             "tags": [
             ],
             "date_published": "2026-01-27T18:33:25+00:00",
-            "date_modified": "2026-03-05T09:47:17+00:00"
+            "date_modified": "2026-04-05T09:48:37+01:00"
         }
     ]
 }

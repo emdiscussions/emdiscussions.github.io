@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>EMDiscussions Blog</title>
+    <title>EMDiscussions - Notes from the Inbox</title>
     <link href="https://emdiscussions.github.io/feed.xml" rel="self" />
     <link href="https://emdiscussions.github.io" />
-    <updated>2026-03-05T09:47:17+00:00</updated>
+    <updated>2026-04-05T09:48:37+01:00</updated>
     <author>
         <name>EMD</name>
     </author>
@@ -233,12 +233,12 @@
         </content>
     </entry>
     <entry>
-        <title>Setting up the EMDiscussions Blog</title>
+        <title>You&#x27;ve got mail!</title>
         <author>
             <name>EMD</name>
         </author>
-        <link href="https://emdiscussions.github.io/setting-up-the-emdiscussions-blog.html"/>
-        <id>https://emdiscussions.github.io/setting-up-the-emdiscussions-blog.html</id>
+        <link href="https://emdiscussions.github.io/youve-got-mail.html"/>
+        <id>https://emdiscussions.github.io/youve-got-mail.html</id>
 
         <updated>2026-01-27T18:33:25+00:00</updated>
             <summary></summary>
